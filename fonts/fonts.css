@@ -1,0 +1,5 @@
+/* 本地字体占位文件
+ * 原站通过 Google Fonts 加载 Inter 与 JetBrains Mono；本机网络无法访问
+ * fonts.googleapis.com，故以空样式表替代，字体回退到 CSS 中已定义的
+ * Inter → Segoe UI → system-ui 字体栈，视觉差异极小。
+ */

@@ -1,0 +1,9 @@
+# 本地验证产物与临时文件
+scroll-*.png
+wheel-*.png
+verify-*.png
+check-dom.html
+*.log
+
+# 原站文件备份（仅本地回滚用，不属于本站源码）
+tools/backup/
